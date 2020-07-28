@@ -1,0 +1,22 @@
+{
+  "name": "CCA Tools",
+  "version": "1.0.0",
+  "description": "A Petri Net analysis Tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/",
+  "keywords": [
+    "Petri Net",
+    "Correspondence Analysis",
+    "Process Mining",
+    "Matrix",
+    "Profile"
+  ],
+  "author": "Mimi Wang",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.1.0"
+  }
+}
